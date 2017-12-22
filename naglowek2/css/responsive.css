@@ -1,0 +1,12 @@
+@media screen and (max-width: 992px){
+    .header-inner{
+        text-align: center;
+        top:100px;
+        transform: translateY(150%);
+
+    }
+    header{
+        height: 50vh;
+    }
+}
+

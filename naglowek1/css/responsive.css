@@ -1,0 +1,8 @@
+@media screen and (max-width: 1170px){
+    .header-inner{
+        top:0;
+        transform: translateY(0);
+        right:0;
+    }
+}
+
