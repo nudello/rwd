@@ -1,8 +1,31 @@
 @media screen and (max-width: 1170px){
-    .header-inner{
+    .header-inner1 {
         top:0;
         transform: translateY(0);
         right:0;
+    }
+}
+@media screen and (max-width: 992px){
+    .header-inner2 {
+        text-align: center;
+        top:100px;
+        transform: translateY(150%);
+
+    }
+    #nn2 {
+        height: 50vh;
+    }
+}
+
+@media screen and  (min-width:992px) and (max-width:1170px) {
+    .header-inner3 {
+        top:-110px;
+        transform: translateY(90px);
+        right: 10px;
+
+    }
+    #nn3 {
+        height: 70vh;
     }
 }
 
